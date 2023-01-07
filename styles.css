@@ -1,11 +1,12 @@
 .header {
 
   background-image: url(images/banner/banner3.png);
-  width: 1500px;
+  width: 1512px;
   height: 808px;
   background-repeat: no-repeat;
   background-size: contain;
   margin-top: -40px;
+
 
 }
 
@@ -45,9 +46,14 @@
   border: none;
   background: #FFFFFF;
   border-radius: 5px;
-  padding: 18px 25px;
-  position: absolute;
 
+  padding-top: 18px;
+  padding-right: 30px;
+  padding-left: 40px;
+  padding-bottom: 20px;
+  position: relative;
+  text-align: center;
+  margin-right: 5px;
 
 }
 
@@ -189,11 +195,95 @@
 }
 
 .gradient-description {
-
   position: relative;
 }
 
-h2 {
-
+.positive-mindset {
   position: inherit;
+  padding-right: 500px;
+  padding-left: 0px;
+}
+
+.btn-call {
+
+  font-family: sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+  color: #005FAC;
+  border: none;
+  background: #FFFFFF;
+  border-radius: 5px;
+  padding: 18px 45px;
+  position: absolute;
+}
+
+.footer {
+  display: inline-flex;
+  gap: 100px;
+  width: 1514px;
+  height: 550px;
+  background: #151414;
+  background-size: cover;
+  margin-left: -5px;
+
+}
+
+.contact-headline {
+
+  font-family: 'Work Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 45px;
+  color: #F8F8F8;
+  margin-left: 230px;
+  margin-top: 80px;
+}
+
+.description {
+
+  font-family: sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+  margin-left: 230px;
+  margin-top: -30px;
+}
+
+.description-details {
+  padding-right: 300px;
+
+}
+
+.contact-email {
+
+  font-family: sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+  margin-left: 230px;
+  margin-top: 30px;
+}
+
+.contact-phone {
+  font-family: sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  color: #FFFFFF;
+  margin-left: 230px;
+  margin-top: 20px;
+
+}
+
+.icons {
+  margin-top: 40px;
+  margin-left: 230px;
+
+}
+
+.subscribe-elemtns {
+
+  margin-top: 130px;
+  margin-right: 229px;
+  margin-top: 243px;
+
 }
