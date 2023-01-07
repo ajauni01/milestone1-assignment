@@ -49,3 +49,50 @@
 
 
 }
+
+.failure-container {
+  display: flex;
+}
+
+.background-image {
+  margin-left: 180px;
+  margin-top: 80px;
+}
+
+.failure-title {
+  padding-left: 100px;
+  padding-right: 250px;
+  text-align: left;
+  font-family: sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  color: #151414;
+}
+
+.failure-subtitle {
+
+  font-family: sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  color: #444343;
+  padding-left: 100px;
+  padding-right: 160px;
+  text-align: left;
+}
+
+.failure-description {
+  margin-top: 250px;
+
+}
+
+.failure-reasons {
+  font-family: sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  color: #444343;
+  padding-left: 120px;
+
+}
