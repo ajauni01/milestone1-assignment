@@ -1,3 +1,8 @@
+* {
+
+  font-family: Verdana;
+}
+
 .header {
 
   background-image: url(images/banner/banner3.png);
@@ -39,7 +44,6 @@
 }
 
 .btn-primary {
-  font-family: sans-serif;
   font-weight: 600;
   font-size: 20px;
   color: #005FAC;
@@ -280,10 +284,47 @@
 
 }
 
-.subscribe-elemtns {
+.subscribe-elements {
 
-  margin-top: 130px;
+  margin-top: 80px;
   margin-right: 229px;
-  margin-top: 243px;
 
+
+}
+
+.subscribe {
+  font-family: sans-serif;
+  font-weight: 600;
+  font-size: 25px;
+  color: #FFFFFF;
+}
+
+.email {
+  border: 1px solid #FFFFFF;
+  border-radius: 8px;
+  width: 300px;
+  height: 60px;
+  left: 1046px;
+  top: 2841.96px;
+  text-align: left;
+  padding-left: 20px;
+  background: #151414;
+  color: rgb(235, 210, 163);
+  font-weight: bold;
+  font-size: 15px;
+
+}
+
+.subscribe-button {
+  margin-top: 15px;
+  font-size: 20px;
+  color: #FFFFFF;
+  background: #005FAC;
+  border-radius: 8px;
+  padding-top: 18px;
+  padding-right: 20px;
+  padding-left: 20px;
+  padding-bottom: 20px;
+  position: absolute;
+  text-align: center;
 }
